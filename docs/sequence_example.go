@@ -3,8 +3,8 @@ package docs
 import (
 	"database/sql"
 
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/internal/app"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/internal/app"
 )
 
 func ExampleSequenceDiagram() *design.SequenceDiagram {

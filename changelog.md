@@ -207,7 +207,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 
 - Namespace from gregoryv/go-design to gregoryv/draw. Fix your imports
-  import "github.com/gregoryv/draw/shape/design"
+  import "github.com/drewjya/draw/shape/design"
 
 ## [0.6.0] - 2019-12-15
 ### Added

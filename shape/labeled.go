@@ -3,7 +3,7 @@ package shape
 import (
 	"html/template"
 
-	"github.com/gregoryv/draw"
+	"github.com/drewjya/draw"
 )
 
 // NewLabeled returns a shape with the text as a label below it.

@@ -5,8 +5,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/gregoryv/draw/internal/date"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/internal/date"
+	"github.com/drewjya/draw/shape"
 )
 
 // NewGanttChart returns a GanttChart spanning days from the given

@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/gregoryv/draw"
+	"github.com/drewjya/draw"
 )
 
 // saveAs saves diagram with inlined style to the given filename

@@ -1,7 +1,7 @@
 package design_test
 
 import (
-	"github.com/gregoryv/draw/design"
+	"github.com/drewjya/draw/design"
 )
 
 func ExampleActivityDiagram() {

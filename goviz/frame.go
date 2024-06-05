@@ -24,7 +24,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/gregoryv/draw/design"
+	"github.com/drewjya/draw/design"
 )
 
 // SaveFrameSeq write a sequence diagram to the given file based on

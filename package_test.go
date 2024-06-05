@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gregoryv/draw"
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/internal/app"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/internal/app"
+	"github.com/drewjya/draw/shape"
 )
 
 func Example_NewSVG() {

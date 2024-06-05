@@ -3,8 +3,8 @@ package design
 import (
 	"io"
 
-	"github.com/gregoryv/draw"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw"
+	"github.com/drewjya/draw/shape"
 )
 
 // NewDiagram returns a diagram with present font and padding values.

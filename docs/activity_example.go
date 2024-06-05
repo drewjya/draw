@@ -1,7 +1,7 @@
 package docs
 
 import (
-	"github.com/gregoryv/draw/design"
+	"github.com/drewjya/draw/design"
 )
 
 func ExampleActivityDiagram() *design.ActivityDiagram {

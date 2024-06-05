@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gregoryv/draw"
+	"github.com/drewjya/draw"
 )
 
 func TestCard(t *testing.T) {

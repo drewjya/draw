@@ -118,11 +118,11 @@ float: left;
 </nav>
 </div>
 <div class="right"><h2 id="install"><a href="#install">Install</a></h2>
-<pre><code>    go get <a href="https://github.com/gregoryv/draw">github.com/gregoryv/draw/</a>...</code></pre><h2 id="apidocumentation"><a href="#apidocumentation">API documentation</a></h2>
+<pre><code>    go get <a href="https://github.com/drewjya/draw">github.com/drewjya/draw/</a>...</code></pre><h2 id="apidocumentation"><a href="#apidocumentation">API documentation</a></h2>
 <ul>
-<li><a href="https://godoc.org/github.com/gregoryv/draw">draw</a></li>
-<li><a href="https://godoc.org/github.com/gregoryv/draw/shape">draw/shape</a> - SVG shapes</li>
-<li><a href="https://godoc.org/github.com/gregoryv/draw/design">draw/design</a> - software design diagrams</li>
+<li><a href="https://godoc.org/github.com/drewjya/draw">draw</a></li>
+<li><a href="https://godoc.org/github.com/drewjya/draw/shape">draw/shape</a> - SVG shapes</li>
+<li><a href="https://godoc.org/github.com/drewjya/draw/design">draw/design</a> - software design diagrams</li>
 </ul>
 <h2 id="about"><a href="#about">About</a></h2>
 <img src="me_circle.png" class="me"/><p>Written by <a href="https://github.com/gregoryv">Gregory Vin&ccaron;i&cacute;</a><br/><a href="#license">MIT License</a></p>
@@ -185,8 +185,8 @@ float: left;
 <text font-family="Arial,Helvetica,sans-serif" font-size="12px" x="288" y="245">Small example diagram</text></svg><pre class="srcfile"><code class="go">package docs
 
 import (
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/shape"
 )
 
 func ExampleSmallClassDiagram() *design.ClassDiagram {
@@ -484,7 +484,7 @@ func Example_RenderInlinedDiagram() {
 <text font-family="Arial,Helvetica,sans-serif" font-size="12px" x="122" y="272">fails</text></svg><pre class="srcfile"><code class="go">package docs
 
 import (
-	"github.com/gregoryv/draw/design"
+	"github.com/drewjya/draw/design"
 )
 
 func ExampleActivityDiagram() *design.ActivityDiagram {
@@ -561,8 +561,8 @@ func ExampleActivityDiagram() *design.ActivityDiagram {
 import (
 	"database/sql"
 
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/internal/app"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/internal/app"
 )
 
 func ExampleSequenceDiagram() *design.SequenceDiagram {
@@ -960,7 +960,7 @@ func ExampleSequenceDiagram() *design.SequenceDiagram {
 ### Changed
 
 - Namespace from gregoryv/go-design to gregoryv/draw. Fix your imports
-  import "github.com/gregoryv/draw/shape/design"
+  import "github.com/drewjya/draw/shape/design"
 
 ## [0.6.0] - 2019-12-15
 ### Added

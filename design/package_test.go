@@ -3,7 +3,7 @@ package design
 import (
 	"testing"
 
-	"github.com/gregoryv/draw"
+	"github.com/drewjya/draw"
 )
 
 func Test_saveAs(t *testing.T) {

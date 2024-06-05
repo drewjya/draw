@@ -4,8 +4,8 @@ package shape
 import (
 	"math"
 
-	"github.com/gregoryv/draw"
-	"github.com/gregoryv/draw/xy"
+	"github.com/drewjya/draw"
+	"github.com/drewjya/draw/xy"
 )
 
 func boxHeight(font draw.Font, pad draw.Padding, lines int) int {

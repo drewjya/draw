@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/gregoryv/asserter"
-	"github.com/gregoryv/draw"
+	"github.com/drewjya/draw"
 )
 
 func TestAlignVertical(t *testing.T) {

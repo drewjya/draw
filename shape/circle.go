@@ -3,7 +3,7 @@ package shape
 import (
 	"io"
 
-	"github.com/gregoryv/draw/xy"
+	"github.com/drewjya/draw/xy"
 	"github.com/gregoryv/nexus"
 )
 

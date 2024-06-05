@@ -1,6 +1,6 @@
 package shape
 
-import "github.com/gregoryv/draw"
+import "github.com/drewjya/draw"
 
 // NewAdjuster returns an adjuster using DefaultSpacing.
 func NewAdjuster(s ...Shape) *Adjuster {

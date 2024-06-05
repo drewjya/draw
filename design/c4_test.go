@@ -3,8 +3,8 @@ package design_test
 import (
 	"testing"
 
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/shape"
 )
 
 func TestC4Example(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/gregoryv/draw/xy"
+	"github.com/drewjya/draw/xy"
 	"github.com/gregoryv/nexus"
 )
 

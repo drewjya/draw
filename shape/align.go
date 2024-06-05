@@ -1,6 +1,6 @@
 package shape
 
-import "github.com/gregoryv/draw/xy"
+import "github.com/drewjya/draw/xy"
 
 // Aligner type aligns multiple shapes
 type Aligner struct{}

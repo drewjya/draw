@@ -1,8 +1,8 @@
 package docs
 
 import (
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/shape"
 )
 
 func ExampleSmallClassDiagram() *design.ClassDiagram {

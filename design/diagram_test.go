@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/gregoryv/asserter"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/shape"
 )
 
 func TestDiagram(t *testing.T) {

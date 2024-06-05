@@ -4,7 +4,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/shape"
 )
 
 // NewSequenceDiagram returns a sequence diagram with default column

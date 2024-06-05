@@ -3,10 +3,10 @@ package design_test
 import (
 	"testing"
 
-	"github.com/gregoryv/draw"
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/shape"
-	"github.com/gregoryv/draw/xy"
+	"github.com/drewjya/draw"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/shape"
+	"github.com/drewjya/draw/xy"
 )
 
 func ExampleClassDiagram() *design.ClassDiagram {

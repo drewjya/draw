@@ -3,7 +3,7 @@ package shape
 import (
 	"io"
 
-	"github.com/gregoryv/draw"
+	"github.com/drewjya/draw"
 )
 
 func NewProcess(text string) *Process {

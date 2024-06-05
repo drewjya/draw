@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/shape"
 )
 
 func NewVRecord(v interface{}) *VRecord {

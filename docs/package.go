@@ -2,8 +2,8 @@
 package docs
 
 import (
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/shape"
 	. "github.com/gregoryv/web"
 	"github.com/gregoryv/web/files"
 	"github.com/gregoryv/web/toc"
@@ -64,8 +64,8 @@ func NewProjectArticle() *Element {
 			Pre(
 				Code(
 					"    go get ",
-					A(Href("https://github.com/gregoryv/draw"),
-						"github.com/gregoryv/draw/"),
+					A(Href("https://github.com/drewjya/draw"),
+						"github.com/drewjya/draw/"),
 					"...",
 				),
 			),
@@ -73,15 +73,15 @@ func NewProjectArticle() *Element {
 			H2("API documentation"),
 			Ul(
 				Li(
-					A(Href(godoc("github.com/gregoryv/draw")), "draw"),
+					A(Href(godoc("github.com/drewjya/draw")), "draw"),
 				),
 				Li(
-					A(Href(godoc("github.com/gregoryv/draw/shape")),
+					A(Href(godoc("github.com/drewjya/draw/shape")),
 						"draw/shape"),
 					" - SVG shapes",
 				),
 				Li(
-					A(Href(godoc("github.com/gregoryv/draw/design")),
+					A(Href(godoc("github.com/drewjya/draw/design")),
 						"draw/design"),
 					" - software design diagrams",
 				),

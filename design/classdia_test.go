@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gregoryv/draw"
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw"
+	"github.com/drewjya/draw/shape"
 )
 
 func BenchmarkClassDiagram_WriteSVG(b *testing.B) {

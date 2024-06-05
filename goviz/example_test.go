@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/gregoryv/draw/goviz"
+	"github.com/drewjya/draw/goviz"
 )
 
 func ExampleSaveFrameSeq() {

@@ -3,10 +3,10 @@ package shape_test
 import (
 	"testing"
 
-	"github.com/gregoryv/draw/design"
-	"github.com/gregoryv/draw/docs"
-	"github.com/gregoryv/draw/shape"
-	. "github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/design"
+	"github.com/drewjya/draw/docs"
+	"github.com/drewjya/draw/shape"
+	. "github.com/drewjya/draw/shape"
 )
 
 func Test_write_allshapes(t *testing.T) {

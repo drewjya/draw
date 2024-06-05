@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gregoryv/draw/internal/date"
+	"github.com/drewjya/draw/internal/date"
 	"github.com/gregoryv/golden"
 )
 

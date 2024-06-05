@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/gregoryv/asserter"
-	"github.com/gregoryv/draw"
-	"github.com/gregoryv/draw/xy"
+	"github.com/drewjya/draw"
+	"github.com/drewjya/draw/xy"
 )
 
 func TestContainer(t *testing.T) {
@@ -90,7 +90,7 @@ func TestSaveShapes(t *testing.T) {
 		NewActor(),
 		NewInternet(),
 		NewAnchor(
-			"https://github.com/gregoryv/draw",
+			"https://github.com/drewjya/draw",
 			NewComponent("package draw"),
 		),
 		NewHidden(

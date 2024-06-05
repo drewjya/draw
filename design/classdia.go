@@ -4,7 +4,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/gregoryv/draw/shape"
+	"github.com/drewjya/draw/shape"
 )
 
 // NewClassDiagram returns a diagram representing structs and
